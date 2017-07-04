@@ -1,0 +1,25 @@
+{
+  "name": "karma-jasmine-dom-matchers",
+  "version": "0.1.0",
+  "description": "Karma plugin to inject Jasmine DOM Matchers for Jasmine.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devoto13/karma-jasmine-dom-matchers.git"
+  },
+  "keywords": [
+    "jasmine",
+    "karma",
+    "matchers",
+    "dom"
+  ],
+  "author": "Yaroslav Admin <devoto13@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devoto13/karma-jasmine-dom-matchers/issues"
+  },
+  "homepage": "https://github.com/devoto13/karma-jasmine-dom-matchers#readme",
+  "dependencies": {
+    "jasmine_dom_matchers": "^1.4.0"
+  }
+}
