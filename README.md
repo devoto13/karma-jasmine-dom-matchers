@@ -6,6 +6,10 @@
 
     npm install karma-jasmine-dom-matchers
     
+TypeScript users should also install type definitions:
+
+	npm install @types/jasmine_dom_matchers
+    
 ## Integration
 
 Just include `'jasmine-dom-matchers'` in the `frameworks` and
