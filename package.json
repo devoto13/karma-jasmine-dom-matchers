@@ -1,6 +1,6 @@
 {
   "name": "karma-jasmine-dom-matchers",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Karma plugin to inject Jasmine DOM Matchers for Jasmine.",
   "main": "index.js",
   "repository": {
